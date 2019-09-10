@@ -4,6 +4,9 @@
 
 [![Build Status](https://circleci.com/gh/evantahler/next-static-hosting.png)](https://circleci.com/gh/evantahler/next-static-hosting)
 
+## Presentation
+This project is for a presentation I gave at Seattle.JS on September 12, 2019.  You can [see the slides here](https://docs.google.com/presentation/d/1xI2-wYziwbChY3ObYo80G7QmykH26Qq0Yyu2O7loWzE/edit?usp=sharing)
+
 ## Attribution
 This is a [React Project](https://facebook.github.io/react/) utilizing [next.js](https://github.com/zeit/next.js/).
 Ths computer image was from Unsplash.com and Tianyi Ma (https://unsplash.com/photos/WiONHd_zYI4)
