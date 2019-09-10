@@ -1,0 +1,47 @@
+{
+  "name": "next-static-hosting",
+  "version": "1.0.0",
+  "description": "next-static-hosting",
+  "repository": {
+    "type": "git",
+    "url": "github.com:evantahler/next-static-hosting.com"
+  },
+  "author": "evan@evantahler.com",
+  "license": "APACHE-2",
+  "scripts": {
+    "dev": "next dev",
+    "test": "jest",
+    "pretest": "standard"
+  },
+  "dependencies": {
+    "github-api": "^3.3.0",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "jest": "^24.9.0",
+    "jooks": "^1.0.0",
+    "standard": "^13.1.0"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "<rootDir>/test-setup.js"
+    ]
+  },
+  "standard": {
+    "ignore": [
+      "static/*"
+    ],
+    "globals": [
+      "describe",
+      "expect",
+      "it",
+      "beforeEach",
+      "beforeAll",
+      "afterEach"
+    ]
+  }
+}
