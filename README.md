@@ -1,5 +1,7 @@
 # Next Static Hosting
 
+![image of website](https://raw.githubusercontent.com/evantahler/next-static-hosting/master/static/images/site.png)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/evantahler/next-static-hosting.svg)](https://greenkeeper.io/)
 
 [![Build Status](https://circleci.com/gh/evantahler/next-static-hosting.png)](https://circleci.com/gh/evantahler/next-static-hosting)
