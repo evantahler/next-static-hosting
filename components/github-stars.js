@@ -5,7 +5,7 @@ const project = { org: 'evantahler', name: 'next-static-hosting' }
 
 function GithubStars () {
   const github = new GitHub()
-  const [stars, setStars] = useState(0)
+  const [stars, setStars] = useState('~')
 
   async function fetchStars () {
     const repository = github.getRepo(project.org, project.name)
