@@ -7,7 +7,7 @@
 [![Build Status](https://circleci.com/gh/evantahler/next-static-hosting.png)](https://circleci.com/gh/evantahler/next-static-hosting)
 
 ## Presentation
-This project is for a presentation I gave at Seattle.JS on September 12, 2019.  You can [see the slides here](https://docs.google.com/presentation/d/1xI2-wYziwbChY3ObYo80G7QmykH26Qq0Yyu2O7loWzE/edit?usp=sharing)
+This project is for a presentation I gave at Seattle.JS on September 12, 2019.  You can [see the slides here](https://speakerdeck.com/evantahler/using-next-dot-js-to-build-static-dynamic-websites-dot-dot-dot-and-never-pay-for-font-end-hosting-again)
 
 ## Attribution
 This is a [React Project](https://facebook.github.io/react/) utilizing [next.js](https://github.com/zeit/next.js/).
