@@ -1,6 +1,6 @@
 version: 2
 
-refrences:
+references:
   ignored-branches: &ignored-branches
      branches:
       ignore:
