@@ -20,7 +20,7 @@ function PageTemplate ({ title, children }) {
         <meta name='viewport' content='width=device-width' />
       </Head>
 
-      <div id={'container'}>
+      <div id='container'>
         {children}
       </div>
     </>
