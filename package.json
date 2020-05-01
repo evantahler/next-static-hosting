@@ -22,7 +22,7 @@
   "devDependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
-    "jest": "^25.2.7",
+    "jest": "^25.5.3",
     "jooks": "^1.0.0",
     "standard": "^14.3.3"
   },
