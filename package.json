@@ -24,7 +24,7 @@
     "enzyme-adapter-react-16": "^1.15.2",
     "jest": "^26.0.1",
     "jooks": "^1.0.0",
-    "standard": "^14.3.3"
+    "standard": "^14.3.4"
   },
   "jest": {
     "setupFilesAfterEnv": [
